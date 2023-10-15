@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hKBXzZ59002vJFkU99lEQG9Evz/qWS0lYhtSd1Bsbea9cxp5Di734RLLsUSRGDXThRjb3mab4OdR8oITjsD9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\busra\\Pictures\\Adesso\\WorldLeague.Domain\\WorldLeague.Domain\\WorldLeague.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\busra\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\busra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

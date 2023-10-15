@@ -1,0 +1,17 @@
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Application.deps.json
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Application.runtimeconfig.json
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Application.dll
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Application.pdb
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Domain.dll
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\bin\Debug\net7.0\WorldLeague.Domain.pdb
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.csproj.AssemblyReference.cache
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.AssemblyInfoInputs.cache
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.AssemblyInfo.cs
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.csproj.CoreCompileInputs.cache
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.csproj.CopyComplete
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.dll
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\refint\WorldLeague.Application.dll
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.pdb
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\WorldLeague.Application.genruntimeconfig.cache
+C:\Users\busra\Pictures\Adesso\WorldLeague.Application\obj\Debug\net7.0\ref\WorldLeague.Application.dll
